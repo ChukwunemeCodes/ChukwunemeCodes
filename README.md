@@ -1,6 +1,6 @@
 # ChukwunemeCodes-
 # 💫 About Me:
-🔭 I am Currently working on Database Projects <br>🌱 I am Currently Learning RUST and GO <br> - 👯 I’m looking to collaborate on building an AI DATASET GENERATOR <br> - 🤔 I’m looking for help with LEARNING NEW PROGRAMS
+🔭 I am Currently working on Database Projects <br>🌱 I am Currently Learning RUST and GO <br>  👯 I’m looking to collaborate on building an AI DATASET GENERATOR <br>  🤔 I’m looking for help with LEARNING NEW PROGRAMS
 
 
 ## - 📫 You can reach me on my 🌐 Socials:
